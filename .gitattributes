@@ -1,6 +1,6 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
 
-frontend/* linguist-vendored
+frontend/** linguist-vendored
 *.js linguist-vendored
 *.ts linguist-vendored
