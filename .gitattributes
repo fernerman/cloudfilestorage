@@ -2,3 +2,5 @@
 *.cmd text eol=crlf
 
 frontend/* linguist-vendored
+*.js linguist-vendored
+*.ts linguist-vendored
